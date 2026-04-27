@@ -1,1 +1,11 @@
-hellow world 
+<<<<<<< Updated upstream
+hi
+hello world
+=======
+hello world
+i am samanthraj
+ne abba rey
+shreyas gadi erripuku
+
+
+>>>>>>> Stashed changes
